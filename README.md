@@ -8,7 +8,7 @@ Speech recognition from labelled waveforms implemented in PyTorch, TensorFlow, a
 
 Based on the model outlined in PyTorch in [this tutorial](https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch):
 
-![Model 1 Outline Image](https://github.com/kghite/speech-reco-examples/blob/master/images/image.png?raw=true) 
+![Model 1 Outline Image](https://github.com/kghite/speech-reco-examples/blob/master/images/model1.png?raw=true) 
 
 ```
 SpeechRecognitionModel(
